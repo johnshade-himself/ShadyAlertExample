@@ -1,0 +1,15 @@
+{
+  "originHash" : "8cb4d3861b00b565e635fba925d6276d9c24d9f3d164632f24b9984a1e41976a",
+  "pins" : [
+    {
+      "identity" : "shadyalert",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/johnshade-himself/ShadyAlert",
+      "state" : {
+        "revision" : "a70192017e6d11e947ea6d1fe67a0b6e8e8f4ef3",
+        "version" : "1.0.1"
+      }
+    }
+  ],
+  "version" : 3
+}
